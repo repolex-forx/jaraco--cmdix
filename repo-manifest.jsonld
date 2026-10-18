@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/cmdix/commit/ca4e0b795a06d8e7444d993de70620c29f4fc36a",
       "git:hexsha": "ca4e0b795a06d8e7444d993de70620c29f4fc36a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:41:50.060253+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/cmdix/commit/19dafa45ee5039f6dd6bc51901dd515ab87f2277",
