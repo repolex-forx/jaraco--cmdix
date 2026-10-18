@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "cmdix",
+  "versions": [
+    {
+      "commit": "ca4e0b795a06d8e7444d993de70620c29f4fc36a",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:41:50.060841+00:00"
+    }
+  ]
+}
